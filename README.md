@@ -87,7 +87,6 @@ We follow the same philosophy as the main oxide project: minimalism doesn't mean
 - **Port Creator:** [@jakmaz](https://github.com/jakmaz)
 - **Current Maintainer:** [@jakmaz](https://github.com/jakmaz)
 - **Contributors:** See [contributors list](https://github.com/oxidescheme/ghostty/graphs/contributors)
--
 
 ## License
 
