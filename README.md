@@ -17,16 +17,16 @@ Where function meets form.
 
 <p>
 <b>oxide</b> for Ghostty brings the oxide colorscheme to your terminal with OKLCH precision.
-A minimalist dark theme built around clarity and restraint, using a deep near-black background, crisp white foregrounds, and soft pastel accents to emphasize structure without visual noise.
+A minimalist dark theme built around clarity and restraint, using a deep near-black background, crisp white foregrounds, and vibrant accent colors to emphasize structure without visual noise.
 </p>
 
 ## Design Philosophy
 
 oxide is built on three core principles:
 
-- **Function first**: If a color does not serve a purpose, it does not belong
-- **Visual silence**: High contrast is reserved for data that matters; everything else recedes
-- **Calculated colors**: Built with OKLCH color space so all colors have consistent brightness and work well together
+- **Function first**: Every color exists to convey information
+- **Visual silence**: Elegance emerges from what is intentionally omitted
+- **Systematic harmony**: Every color relates predictably to the others
 
 The full design philosophy and color system are documented in the [main oxide repository](https://github.com/oxidescheme/oxide).
 
@@ -74,15 +74,6 @@ theme = dark:oxide,light:your-light-theme
 
 Ghostty will automatically switch based on your system appearance.
 
-## Color Palette
-
-oxide uses OKLCH color space for precise, perceptually uniform colors:
-
-- **Background**: Deep void-like `#161616` for optimal readability
-- **Foreground**: Crisp `#cecece` text that doesn't strain your eyes
-- **Accents**: 9 semantic colors with consistent lightness values
-- **ANSI Colors**: Full 16-color palette optimized for terminal applications
-
 ## Contributing
 
 We follow the same philosophy as the main oxide project: minimalism doesn't mean stagnation.
@@ -91,6 +82,13 @@ We follow the same philosophy as the main oxide project: minimalism doesn't mean
 - PRs that improve clarity and consistency are welcome
 - Ensure changes align with oxide's functional aesthetic
 
+## Credits
+
+- **Port Creator:** [@jakmaz](https://github.com/jakmaz)
+- **Current Maintainer:** [@jakmaz](https://github.com/jakmaz)
+- **Contributors:** See [contributors list](https://github.com/oxidescheme/ghostty/graphs/contributors)
+-
+
 ## License
 
 MIT License - see [LICENSE](LICENSE) for details.
@@ -98,4 +96,3 @@ MIT License - see [LICENSE](LICENSE) for details.
 <p align="center">
 Copyright &copy; 2025-present oxidescheme
 </p>
-
