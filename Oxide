@@ -1,0 +1,31 @@
+# Oxide Dark Theme for Ghostty
+# Based on oxide.nvim dark color palette with OKLCH color system
+# Matches terminal color mappings from Neovim configuration
+
+# Core UI colors
+background = #161616
+foreground = #cecece
+cursor-color = #cecece
+cursor-text = #161616
+selection-background = #262626
+selection-foreground = #cecece
+
+# Standard ANSI colors (0-15)
+palette = 0=#262626
+palette = 1=#ff5655
+palette = 2=#00c300
+palette = 3=#be9b00
+palette = 4=#00a6ff
+palette = 5=#9588ff
+palette = 6=#00baaa
+palette = 7=#cecece
+
+# Bright colors (8-15)
+palette = 8=#8f8f8f
+palette = 9=#ff7b74
+palette = 10=#00d600
+palette = 11=#d0ab00
+palette = 12=#40b6ff
+palette = 13=#a59dff
+palette = 14=#00ccba
+palette = 15=#dedede
