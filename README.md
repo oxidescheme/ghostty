@@ -9,8 +9,10 @@ Where function meets form.
 </h6>
 
 <p align="center">
-  <a href="https://github.com/oxidescheme/ghostty/stargazers"><img src="https://img.shields.io/github/stars/oxidescheme/ghostty?colorA=141414&colorB=33b1ff&style=for-the-badge"></a>
-  <a href="https://github.com/oxidescheme/ghostty/issues"><img src="https://img.shields.io/github/issues/oxidescheme/ghostty?colorA=141414&colorB=ff6370&style=for-the-badge"></a>
+  <a href="https://github.com/oxidescheme/ghostty/stargazers"><img src="https://img.shields.io/github/stars/oxidescheme/ghostty?colorA=161616&colorB=00a6ff&style=for-the-badge"></a>
+  <a href="https://github.com/oxidescheme/ghostty/issues"><img src="https://img.shields.io/github/issues/oxidescheme/ghostty?colorA=161616&colorB=ff5655&style=for-the-badge"></a>
+  <a href="https://ghostty.org/"><img src="https://img.shields.io/badge/Made%20for%20Ghostty-9588ff?style=for-the-badge&logo=ghostty&logoColor=white"></a>
+  <a href="https://discord.gg/p8GcbBH5MR"><img src="https://img.shields.io/discord/1450777325267456097?style=for-the-badge&color=00baaa&labelColor=161616&logo=discord&logoColor=white"></a>
 </p>
 
 <p>
