@@ -15,7 +15,7 @@ Where function meets form.
 </p>
 
 <p>
-<b>oxide</b> for Ghostty brings the oxide colorscheme to your terminal with OKLCH precision.
+<b>oxide</b> for [Ghostty](https://ghostty.org/) brings the oxide colorscheme to your terminal with OKLCH precision.
 A minimalist dark theme built around clarity and restraint, using a deep near-black background, crisp white foregrounds, and vibrant accent colors to emphasize structure without visual noise.
 </p>
 
