@@ -9,6 +9,10 @@ Where function meets form.
 </h6>
 
 <p align="center">
+  <img src="assets/preview.png" alt="oxide ghostty preview">
+</p>
+
+<p align="center">
   <a href="https://github.com/oxidescheme/ghostty/stargazers"><img src="https://img.shields.io/github/stars/oxidescheme/ghostty?colorA=161616&colorB=00a6ff&style=for-the-badge"></a>
   <a href="https://github.com/oxidescheme/ghostty/issues"><img src="https://img.shields.io/github/issues/oxidescheme/ghostty?colorA=161616&colorB=ff5655&style=for-the-badge"></a>
   <a href="https://discord.gg/p8GcbBH5MR"><img src="https://img.shields.io/discord/1450777325267456097?style=for-the-badge&color=00baaa&labelColor=161616&logo=discord&logoColor=white"></a>
