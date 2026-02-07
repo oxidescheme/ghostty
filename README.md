@@ -1,6 +1,6 @@
 <div align="center">
 
-# oxide
+# oxide for ghostty
 
 </div>
 
