@@ -14,10 +14,8 @@ Where function meets form.
   <a href="https://discord.gg/p8GcbBH5MR"><img src="https://img.shields.io/discord/1450777325267456097?style=for-the-badge&color=00baaa&labelColor=161616&logo=discord&logoColor=white"></a>
 </p>
 
-<p>
-<b>oxide</b> for [Ghostty](https://ghostty.org/) brings the oxide colorscheme to your terminal with OKLCH precision.
+**oxide** for [Ghostty](https://ghostty.org/) brings the oxide colorscheme to your terminal with OKLCH precision.
 A minimalist dark theme built around clarity and restraint, using a deep near-black background, crisp white foregrounds, and vibrant accent colors to emphasize structure without visual noise.
-</p>
 
 ## Design Philosophy
 
