@@ -37,7 +37,7 @@ The full design philosophy and color system are documented in the [main oxide re
 
 The simplest way to use oxide is with Ghostty's built-in theme support:
 
-```toml
+```yaml
 theme = oxide
 ```
 
@@ -49,7 +49,7 @@ To use the exact theme from this repository:
 2. Copy it to your Ghostty themes directory: `~/.config/ghostty/themes/`
 3. Set the theme in your Ghostty configuration:
 
-```toml
+```yaml
 theme = Oxide
 ```
 
@@ -61,7 +61,7 @@ theme = Oxide
 
 Add this line to your Ghostty configuration file (`~/.config/ghostty/config`):
 
-```toml
+```yaml
 theme = oxide
 ```
 
@@ -69,7 +69,7 @@ theme = oxide
 
 oxide works great as a dedicated dark theme, or combined with a light theme:
 
-```toml
+```yaml
 theme = dark:oxide,light:your-light-theme
 ```
 
