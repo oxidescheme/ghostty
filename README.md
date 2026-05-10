@@ -18,18 +18,7 @@ Where function meets form.
   <img src="assets/preview.png" alt="oxide ghostty preview">
 </p>
 
-**oxide** for [Ghostty](https://ghostty.org/) brings the oxide colorscheme to your terminal with OKLCH precision.
-A minimalist dark theme built around clarity and restraint, using a deep near-black background, crisp white foregrounds, and vibrant accent colors to emphasize structure without visual noise.
-
-## Design Philosophy
-
-oxide is built on three core principles:
-
-- **Function first**: Every color exists to convey information
-- **Visual silence**: Elegance emerges from what is intentionally omitted
-- **Systematic harmony**: Every color relates predictably to the others
-
-The full design philosophy and color system are documented in the [main oxide repository](https://github.com/oxidescheme/oxide).
+**oxide** for [Ghostty](https://ghostty.org/).
 
 ## Installation
 
@@ -57,31 +46,23 @@ theme = Oxide
 
 ## Configuration
 
-### Basic Usage
-
 Add this line to your Ghostty configuration file (`~/.config/ghostty/config`):
 
 ```yaml
 theme = oxide
 ```
 
-### Light/Dark Mode Support
-
-oxide works great as a dedicated dark theme, or combined with a light theme:
+For automatic dark/light switching:
 
 ```yaml
 theme = dark:oxide,light:your-light-theme
 ```
 
-Ghostty will automatically switch based on your system appearance.
+Ghostty will switch based on your system appearance.
 
 ## Contributing
 
-We follow the same philosophy as the main oxide project: minimalism doesn't mean stagnation.
-
-- Report issues through [GitHub Issues](https://github.com/oxidescheme/ghostty/issues)
-- PRs that improve clarity and consistency are welcome
-- Ensure changes align with oxide's functional aesthetic
+PRs welcome. Make sure colors match the palette in the [main repo](https://github.com/oxidescheme/oxide).
 
 ## Credits
 
