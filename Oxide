@@ -7,7 +7,7 @@ background = #161616
 foreground = #cecece
 cursor-color = #cecece
 cursor-text = #161616
-selection-background = #222222
+selection-background = #2e2e2e
 selection-foreground = #cecece
 
 # Standard ANSI colors (0-15)
